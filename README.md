@@ -1,2 +1,4 @@
 # papers_of_week
-O espaço utilizado para rastrear meus papers lidos semanalmente
+
+* *08-04-2024*: **Towards CRISP-ML(Q): A Machine Learning Process Model
+with Quality Assurance Methodology**
