@@ -17,6 +17,8 @@ Data Analysis**
 what machines really learn**
 * *---*: **A Python Toolbox to Tackle the Curse of Imbalanced Datasets in
 Machine Learning**
+* *---*: **The Mythos of Model Interpretability**
+* *---*: **Understanding Black-box Predictions via Influence Functions**
 * *---*: **Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead**
 * *---*: **Quantifying Interpretability and Trust in Machine Learning Systems**
 * *---*: **The Lack of a Priori Distinctions Between Learning Algorithms**
