@@ -9,6 +9,8 @@ Systems.**
 Literature Review of Machine Learning System Development Process**
 * *23-04-2024*: **The problem of concept drift: definitions and related work**
 *  *01-07-2024*: **A Practical Taxonomy of Reproducibility for Machine Learning Research**
+*  12-08-2024*: **An Evaluation of Standard Statistical Models and
+LLMs on Time Series Forecasting**
 * *---*: **The Secrets of Machine Learning: Ten Things You Wish You Had Known Earlier to be More Effective at
 Data Analysis**
 * *---*: **AI System Engineering—Key Challenges and Lessons Learned**
