@@ -9,9 +9,9 @@ Systems.**
 Literature Review of Machine Learning System Development Process**
 * *23-04-2024*: **The problem of concept drift: definitions and related work**
 *  *01-07-2024*: **A Practical Taxonomy of Reproducibility for Machine Learning Research**
-*  12-08-2024*: **An Evaluation of Standard Statistical Models and
+*  *12-08-2024*: **An Evaluation of Standard Statistical Models and
 LLMs on Time Series Forecasting**
-
+* *---*: **From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples**
 * *---*: **Harnessing eXplainable artificial intelligence for feature selection in time series energy forecasting: A comparative analysis of Grad-CAM and SHAP**
 * *---*: **The Secrets of Machine Learning: Ten Things You Wish You Had Known Earlier to be More Effective at
 Data Analysis**
