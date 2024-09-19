@@ -11,7 +11,10 @@ Literature Review of Machine Learning System Development Process**
 *  *01-07-2024*: **A Practical Taxonomy of Reproducibility for Machine Learning Research**
 *  *12-08-2024*: **An Evaluation of Standard Statistical Models and
 LLMs on Time Series Forecasting**
+
 *  *07-09-2024*: **Machine Learning Operations (MLOps):
+
+* *19-09-2024*: **Hidden Technical Debt in Machine Learning Systems**
 Overview, Definition, and Architecture**
 * *---*: **From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples**
 * *---*: **Harnessing eXplainable artificial intelligence for feature selection in time series energy forecasting: A comparative analysis of Grad-CAM and SHAP**
