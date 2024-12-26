@@ -18,6 +18,8 @@ LLMs on Time Series Forecasting**
 Overview, Definition, and Architecture**
 
 * *01-10-2024*: **Talking About Large Language Models**
+* *26-12-2024*: **Explainable Artificial Intelligence (XAI): Concepts, Taxonomies,
+Opportunities and Challenges toward Responsible AI**
 * *---*:**DECLARATIVE MACHINE LEARNING SYSTEMS**
 * *---*: **From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples**
 * *---*: **Harnessing eXplainable artificial intelligence for feature selection in time series energy forecasting: A comparative analysis of Grad-CAM and SHAP**
